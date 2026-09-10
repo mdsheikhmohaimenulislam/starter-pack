@@ -104,7 +104,7 @@ node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
 
 ## Project structure
 
-```
+```...
 src/
 ├── server.ts                       # connects to the DB, then starts listening
 ├── app.ts                          # express app: cors, body parsing, routes, error handling
