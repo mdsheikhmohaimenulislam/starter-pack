@@ -19,7 +19,7 @@ Treat this README as a description of what the code *actually does today*, inclu
 
 Any package manager works (npm, pnpm, yarn, bun). The examples below use `npm`.
 
-## Getting started
+## Getting started..
 
 **1. Install dependencies**
 
