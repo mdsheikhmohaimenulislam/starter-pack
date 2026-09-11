@@ -27,7 +27,7 @@ Any package manager works (npm, pnpm, yarn, bun). The examples below use `npm`.
 npm install
 ```
 
-**2. Set up your environment file**
+**2. Set up your environment file** ..................
 
 ```bash
 cp .env.example .env
